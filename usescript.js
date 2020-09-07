@@ -1,6 +1,6 @@
+import React from 'react';
 export default function useScript(url) {
   try {
-    import React from 'react';
     const [loaded, setLoaded] = React.useState(false);
     React.useEffect(() => {
       const script = document.createElement('script');
