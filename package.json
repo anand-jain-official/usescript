@@ -1,0 +1,30 @@
+{
+  "name": "usescript-hook",
+  "version": "1.0.3",
+  "description": "React hook for loading scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anand-jain-official/usescript.git"
+  },
+  "keywords": [
+    "usescript",
+    "react",
+    "hook",
+    "load",
+    "async",
+    "safe",
+    "script",
+    "js"
+  ],
+  "author": "Anand Jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anand-jain-official/usescript/issues"
+  },
+  "homepage": "https://github.com/anand-jain-official/usescript#readme",
+  "dependencies": {}
+}
